@@ -11,5 +11,6 @@ public class tria {
 		Date date = calendar.getTime();
 		System.out.println(date);
 		System.out.println(date);
+		System.out.println(date);
 	}
 }
