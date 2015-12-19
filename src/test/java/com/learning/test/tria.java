@@ -10,5 +10,7 @@ public class tria {
 		Calendar calendar = Calendar.getInstance();
 		Date date = calendar.getTime();
 		System.out.println(date);
+		System.out.println(date);
+		System.out.println(date);
 	}
 }
